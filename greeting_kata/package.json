@@ -1,0 +1,11 @@
+{
+  "name": "greeting_kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greeting_kata.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
